@@ -1,4 +1,4 @@
-serverport:7979
+server.port=7979
 
 the.value.from.my.properties.file=Good Evening!
 
